@@ -1,0 +1,24 @@
+{
+  "scriptFile": "function_app.py",
+  "bindings": [
+    {
+      "authLevel": "anonymous",  
+      "type": "httpTrigger",   
+      "direction": "in",       
+      "name": "req",           
+      "methods": ["post"]      
+    },
+    {
+      "type": "http",           
+      "direction": "out",      
+      "name": "$return"        
+    },
+    {
+      "type": "blob",           
+      "direction": "in",        
+      "name": "modelblob",     
+      "path": "appreco/best_als_model.pkl", 
+      "connection": "AzureWebJobsStorage"  
+    }
+  ]
+}
