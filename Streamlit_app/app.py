@@ -8,7 +8,7 @@ st.title("📚 Système de Recommandation")
 
 # URL Azure 
 
-AZURE_FUNCTION_URL = "http://localhost:7071/recommend"
+AZURE_FUNCTION_URL = "http://appreco.azurewebsites.net/recommend"
 
 
 # Entrée utilisateur
