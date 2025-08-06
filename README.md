@@ -20,7 +20,8 @@ Le projet est structuré pour une intégration et un déploiement continus (CI/C
 ### Démonstration du projet
 
 <img width="608" height="122" alt="image" src="https://github.com/user-attachments/assets/eec4376c-4a67-4f4b-bb22-899cb9b40200" />
-<img width="223" height="142" alt="image" src="https://github.com/user-attachments/assets/2d7f6e66-caa5-4008-be6a-ed5a9307c84e" />
+
+<img width="607" height="389" alt="image" src="https://github.com/user-attachments/assets/fd442b54-63fc-48fe-83d9-d34e797487ce" />
 
 
 ### Technologies Utilisées
